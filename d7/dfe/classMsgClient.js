@@ -1,0 +1,28 @@
+var classMsgClient =
+[
+    [ "MsgClient", "d7/dfe/classMsgClient.html#a5e445d7012053e0f4e3885adcc24d321", null ],
+    [ "close", "d7/dfe/classMsgClient.html#aa08355f2786ef8baabeb15ce961d62fe", null ],
+    [ "connect", "d7/dfe/classMsgClient.html#a2b3cc36e6d442486fa11ace7b3158e6d", null ],
+    [ "do_read_data", "d7/dfe/classMsgClient.html#a7593d916bf9808c30d401a1cd4fedf88", null ],
+    [ "do_read_header", "d7/dfe/classMsgClient.html#ad4a502f5195137a3848fa80dce04f794", null ],
+    [ "do_write", "d7/dfe/classMsgClient.html#acdfe8dc06d8159183dc0c031e505d8b5", null ],
+    [ "get_console_mutex", "d7/dfe/classMsgClient.html#aeb9b353fb3670fc8e63cbddf81197a78", null ],
+    [ "get_peer_name", "d7/dfe/classMsgClient.html#ad56618549c41a91d14a9a47619ac8f8e", null ],
+    [ "parse_command", "d7/dfe/classMsgClient.html#a83c558fd7f7ba4df72f2cc08b7e4d073", null ],
+    [ "print", "d7/dfe/classMsgClient.html#a83beebd11bff51a6cd90428f60fc57ed", null ],
+    [ "receive_file", "d7/dfe/classMsgClient.html#adf88c3ef542c30ddbeb584aaad91748d", null ],
+    [ "send_file", "d7/dfe/classMsgClient.html#aeacf1cd613a6249c6dae409a6a57bb83", null ],
+    [ "user_typing", "d7/dfe/classMsgClient.html#a5d0b8ca7590fb4caef05da57ab4f3868", null ],
+    [ "write", "d7/dfe/classMsgClient.html#a00b5c4a62581f3a5300eba7a02e63e32", null ],
+    [ "_buffer_size", "d7/dfe/classMsgClient.html#a43576212a3d721a29ca0a38b8b7c3f6c", null ],
+    [ "_console_mutex", "d7/dfe/classMsgClient.html#a8117c87ae8654155f3a7546dda2d1f8e", null ],
+    [ "_context", "d7/dfe/classMsgClient.html#a2e8959cd1257c478ffdd19c59bdbf3c6", null ],
+    [ "_data", "d7/dfe/classMsgClient.html#ae5bda99a45bf0f6efc9ef6e4958ef2a9", null ],
+    [ "_endpoints", "d7/dfe/classMsgClient.html#a7c330fa3795e116b8f055be30b931e21", null ],
+    [ "_file_storage", "d7/dfe/classMsgClient.html#a09038eafac0d1074bb5adb164bde523b", null ],
+    [ "_max_file_size", "d7/dfe/classMsgClient.html#af635be3ac7c2de06106fc8e7712829da", null ],
+    [ "_name", "d7/dfe/classMsgClient.html#aaa44e8430c6485be94a2b2f2818888c2", null ],
+    [ "_peer_name", "d7/dfe/classMsgClient.html#a6671c01a980e8e703ba7790061ed6125", null ],
+    [ "_socket", "d7/dfe/classMsgClient.html#a701e52363f5bf18c8230c7a4766b9f1f", null ],
+    [ "_status", "d7/dfe/classMsgClient.html#a4b7d3d513b56f37b2cf78455c02b9030", null ]
+];
